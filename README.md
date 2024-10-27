@@ -58,7 +58,4 @@
 <a href = "http://instagram.com/aishp_patil" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
-## 🏆 GitHub Stats
-
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishp-patil&theme=chartreuse-dark&showicons=true&show_icons=true&count_private=true])
 
